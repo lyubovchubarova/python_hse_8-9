@@ -22,7 +22,7 @@
 | 6 февраля  | Jupyter notebook, консоль, Git ([конспект](intro/cmd_and_git_cheetsheet.ipynb), [домашка](intro/homework1.ipynb))                                                        |
 | 13 февраля  | Области видимости, пространство имен, передача аргументов в функцию, декораторы ([конспект1](functions/01_1.ipynb), [конспект2](functions/01_2.ipynb), [домашка](functions/homework2.ipynb)) |
 | 20 февраля | Классы [конспект](classes/classes.ipynb), основные принципы ООП[конспект](classes/principles.ipynb), [домашнее задание](classes/hw3.ipynb), дедлайн **3 марта**|
-| 27 февраля | Тестирование                                                                                                     |
+| 27 февраля | Тестирование: [введение](testing/intro_testing.ipynb), [примеры](testing/unittest_examples.ipynb), [Mock-объект](testing/mock.ipynb) (посмотреть опционально). [Домашнее задание](), дедлайн **7 марта**                                                                                                 |
 | 5 марта    | 1. Краулеры 2. requests                                                                                          |
 | 12 марта    | Реляционные базы данных                                                                                          |
 
