@@ -23,6 +23,6 @@
 | 13 февраля  | Области видимости, пространство имен, передача аргументов в функцию, декораторы ([конспект1](functions/01_1.ipynb), [конспект2](functions/01_2.ipynb), [домашка](functions/homework2.ipynb)) |
 | 20 февраля | Классы [конспект](classes/classes.ipynb), основные принципы ООП[конспект](classes/principles.ipynb), [домашнее задание](classes/hw3.ipynb), дедлайн **3 марта**|
 | 27 февраля | Тестирование: [введение](testing/intro_testing.ipynb), [примеры](testing/unittest_examples.ipynb), [Mock-объект](testing/mock.ipynb) (посмотреть опционально). [Домашнее задание](testing/hw4.ipynb), дедлайн **7 марта**                                                                                                 |
-| 5 марта    | 1. Краулеры 2. requests                                                                                          |
+| 5 марта    |  Библиотека requests [конспект](crawlers/requests.ipynb), краулеры   (crawlers/crawlers.ipynb). [Домашка](crawlers/hw5.ipynb), дедлайн  **14 марта**                                                                                     |
 | 12 марта    | Реляционные базы данных                                                                                          |
 
