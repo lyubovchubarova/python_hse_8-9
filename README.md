@@ -24,5 +24,5 @@
 | 20 февраля | Классы [конспект](classes/classes.ipynb), основные принципы ООП[конспект](classes/principles.ipynb), [домашнее задание](classes/hw3.ipynb), дедлайн **3 марта**|
 | 27 февраля | Тестирование: [введение](testing/intro_testing.ipynb), [примеры](testing/unittest_examples.ipynb), [Mock-объект](testing/mock.ipynb) (посмотреть опционально). [Домашнее задание](testing/hw4.ipynb), дедлайн **7 марта**                                                                                                 |
 | 5 марта    |  Библиотека requests [конспект](crawlers/requests.ipynb), краулеры   (crawlers/crawlers.ipynb). [Домашка](crawlers/hw5.ipynb), дедлайн  **14 марта**                                                                                     |
-| 12 марта    | Реляционные базы данных                                                                                          |
+| 12 марта    | Реляционные базы данных[конспект](databases/databases_1.ipynb), python-оболочка[конспект](databases/databases_2.ipynb)                                                                                          |
 
