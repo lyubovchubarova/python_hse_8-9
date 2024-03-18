@@ -25,7 +25,7 @@
 | 27 февраля | Тестирование: [введение](testing/intro_testing.ipynb), [примеры](testing/unittest_examples.ipynb), [Mock-объект](testing/mock.ipynb) (посмотреть опционально). [Домашнее задание](testing/hw4.ipynb), дедлайн **7 марта**                                                                                                 |
 | 5 марта    |  Библиотека requests [конспект](crawlers/requests.ipynb), краулеры [конспект](crawlers/crawlers.ipynb). [Домашка](crawlers/hw5.ipynb), дедлайн  **14 марта**                                                                                     |
 | 12 марта    | Реляционные базы данных [конспект](databases/databases_1.ipynb), python-оболочка [конспект](databases/databases_2.ipynb), [домашнее задание](databases/hw6.ipynb), дедлайн **24 марта**                                                                                           |
-| 19 марта    | Контрольная. Flask                                                                            |
+| 19 марта    | Контрольная [условие](test1/task.ipynb). Flask [конспект] (flask/flask1.ipynb)                                                                           |
 | 26 марта    | КАНИКУЛЫ                                                                          |
 | 2 апреля    | ТГ-боты, деплой                                                                          |
 | 9 апреля    | Основы теории вероятностей и математической статистики. Библиотеки pandas и matplotlib |
