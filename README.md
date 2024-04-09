@@ -27,8 +27,8 @@
 | 12 марта    | Реляционные базы данных [конспект](databases/databases_1.ipynb), python-оболочка [конспект](databases/databases_2.ipynb), [домашнее задание](databases/hw6.ipynb), дедлайн **24 марта**                                                                                           |
 | 19 марта    | Контрольная [условие](test1/task.ipynb).                                                                            |
 | 26 марта    | КАНИКУЛЫ                                                                      |
-| 2 апреля    | Flask [конспект] (flask/flask1.ipynb)                                                                          |
-| 9 апреля    | ТГ-боты  |
+| 2 апреля    | Flask [конспект](flask/flask1.ipynb)                                                                          |
+| 9 апреля    | ТГ-боты: [начало](tgbots/TGBot1.ipynb), [разные функции](tgbots/TGBot2.ipynb), [подключение сторонних библиотек](tgbots/TelegramBot3.ipynb), [хостинг](tgbots/TG4.ipynb)   |
 | 16 апреля    | Основы теории вероятностей и математической статистики. Библиотеки pandas и matplotlib                                                                   |
 | 16 апреля    | Кластеризация                                                                       |
 | 23 апреля    | Регрессия                                                                       |
